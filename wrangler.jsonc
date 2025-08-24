@@ -15,5 +15,8 @@
 		"binding": "USER_NOTIFICATION",
 		"id": "2c0a286912ee4238a0848c74516993dd"
 		}
+		{
+		"binding": "GEMINI_CLI_KV", 
+		"id": = "9e008e08d46d4f60a40d55ff445fd281" }
 	]
 }
